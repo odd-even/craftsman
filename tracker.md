@@ -11,10 +11,10 @@
 | Access | Partial | New-site GA4 on file. Prior Squarespace Sep 15–Oct 15 filed for context. GBP: invite ernest@oddpluseven.com. GSC: O+E sets up |
 | Site | Live | craftsmanhomesva.com |
 | Area pages | Live | Lynchburg, Campbell, Amherst, Bedford, Appomattox, Madison Heights |
-| First report | HTML preview ready | `reports/2026-10-digital-presence.html` · http://127.0.0.1:8898/2026-10-digital-presence.html |
+| October report | Published | Encrypted hub live · password `Craftsman2026` |
+| Hub | Ready | https://odd-even.github.io/craftsman/ |
 
 ## Next
 
 1. Owners: invite ernest@oddpluseven.com as GBP manager (requested in the October report)
 2. O+E: set up Search Console for craftsmanhomesva.com
-3. Review HTML preview, then encrypt / publish when ready

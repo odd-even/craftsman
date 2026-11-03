@@ -29,4 +29,7 @@ Squarespace. Do not ask for Squarespace screenshots or file anything under a Squ
 
 ## Report
 
-Same sections and HTML system as Wilson. Draft in `monthly-reports/`. HTML in `reports/`. October 2026 report is open; GBP access ask and Search Console setup are next.
+Same sections and HTML system as Wilson. Draft in `monthly-reports/`. Editable HTML in `reports/src/`. Encrypt with `scripts/encrypt-reports.sh` when publishing.
+
+**Hub:** https://odd-even.github.io/craftsman/  
+**Password:** `Craftsman2026`
