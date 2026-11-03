@@ -1,0 +1,18 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+.cursor/
+reports/encrypted/
+# Editable plaintext — never publish; re-encrypt into reports/*.html for Pages
+reports/src/
+reports/preview.html
+reports/preview-mobile.html
+
+drop/processed-*/
+drop/Screenshot*
