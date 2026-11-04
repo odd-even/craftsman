@@ -24,3 +24,7 @@ Name files `YYYY-MM-DD_short-description.ext`.
 | 2026-11-03 | `ga4/2026-11-03_ga4-reports-snapshot.webp` | ga4 | monthly-reports/2026-10.md |
 | 2026-11-03 | `ga4/2026-11-03_ga4-engagement-retention-overview.webp` | ga4 | monthly-reports/2026-10.md |
 | 2026-11-03 | `squarespace/2026-11-03_sqsp-traffic-last-30-days.webp` | squarespace | monthly-reports/2026-10.md · prior site Sep 15–Oct 15 |
+| 2026-11-04 | `gsc/2026-11-04_gsc-performance-last-28-days.webp` | gsc | monthly-reports/2026-10.md · Performance compare last 28d vs prior |
+| 2026-11-04 | `gsc/2026-11-04_gsc-indexing-critical-issues.csv` | gsc | Page indexing reasons · 30 not indexed |
+| 2026-11-04 | `gsc/2026-11-04_gsc-indexing-chart.csv` | gsc | Indexed vs not indexed trend |
+| 2026-11-04 | `gsc/2026-11-04_gsc-indexing-metadata.csv` | gsc | Export metadata |
