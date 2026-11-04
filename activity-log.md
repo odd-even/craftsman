@@ -28,3 +28,4 @@ Append-only. Each entry feeds the monthly report.
 - Folded GSC performance + indexing into October baseline HTML (`reports/src/2026-10-digital-presence.html`) and markdown.
 - Clarified: Search Console is already set up. The only client action item is GBP manager access for ernest@oddpluseven.com.
 - Pre-send polish: removed prior-Squarespace comparison from client HTML; softened GSC ranking/indexing framing; noted estimate forms not in pack; fixed footer; re-encrypted and published hub.
+- Search Console: new sitemap submitted for indexing (craftsmanhomesva.com). No screenshot in drop yet.
