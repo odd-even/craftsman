@@ -11,7 +11,7 @@
 | Access | Partial | New-site GA4 on file. GSC performance + indexing filed Nov 4. Prior Squarespace Sep 15–Oct 15 context. GBP: invite ernest@oddpluseven.com |
 | Site | Live | craftsmanhomesva.com |
 | Area pages | Live | Lynchburg, Campbell, Amherst, Bedford, Appomattox, Madison Heights |
-| October report | Ready to send | Pre-send polish done · encrypt + publish to refresh hub |
+| October report | Published | Pre-send polish live on hub |
 | Hub | https://odd-even.github.io/craftsman/ | password in client.md |
 
 ## Next
