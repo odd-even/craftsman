@@ -9,7 +9,6 @@ __pycache__/
 *.pyc
 .cursor/
 reports/encrypted/
-# Editable plaintext — never publish; re-encrypt into reports/*.html for Pages
 reports/src/
 reports/preview.html
 reports/preview-mobile.html
